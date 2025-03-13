@@ -1,6 +1,7 @@
 package storage;
 
 import Gui.models.Person;
+import Gui.models.Portfolio;
 
 import java.util.ArrayList;
 
@@ -14,4 +15,8 @@ public class Storage {
     public static ArrayList<Person> getPersonArrayList() {
         return personArrayList;
     }
+
+    /*                   */
+
+
 }

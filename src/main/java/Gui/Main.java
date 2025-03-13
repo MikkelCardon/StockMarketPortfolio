@@ -11,5 +11,6 @@ public class Main {
 
     private static void initStorage() {
         InitStorage.initPerson();
+        InitStorage.initPortfolio();
     }
 }
